@@ -9,7 +9,7 @@
 *	 -------P3
 *	    j
 *
-* Author: Sarogini Grace Pease 2014
+* Author: Sarogini Grace Pease May 2014
 *
 gcc -g -o multilateration -ansi sds_twr_Multilateration.c -lm
 */
